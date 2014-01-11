@@ -1,2 +1,17 @@
 This is the initial repo for the CS162 Github organization.
 Welcome to the group! (push check)
+If You are just added, create a directory:
+"mkdir foo", (replace foo with your preferred name). Then, run "git clone https://github.com/CS162-2014/InitialRepo.git" from within that directory to download all files. 
+
+Then, add some text to this file and commit:
+"git commit -m "message for commit"" You can replace the message with anything.
+
+then, push that commit up to the server: 
+"git push origin master"
+
+This is to check that you can commit after being added to the group.
+
+if you need to pull down files from the git server that have been updated (i.e. someone changed the file and you want to download the most up to date version), navigate to your foo directory and run:
+"git pull origin master"
+
+Let's Code!
